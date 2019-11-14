@@ -4,4 +4,4 @@
 2)  WRI India Land Conflicts - tSNE Scatter Pie Visualization
 3)  WRI India Land Conflicts - BiLSTM with 89% accuracy, 74% F1 score
 
-WRI_modling is Kali's model - Linear Regression + SVM
+WRI_modelling is Kali's model - Linear Regression + SVM
